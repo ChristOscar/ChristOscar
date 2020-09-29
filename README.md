@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Christwide OScar</h1>
+<h1 align="center">Hi 👋, I'm Christwide Oscar</h1>
 <h3 align="center">Welcome to my Page!A madman for frontend development lives here.</h3>
 
 - 🔭 I’m currently working on [KIDO Resources](https://github.com/ChristOscar/KidoResources)

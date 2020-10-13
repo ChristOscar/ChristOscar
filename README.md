@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Christwide OScar</h1>
-<h3 align="center">Welcome to my page!A madman for trying to be the best at everything.</h3>
+<h1 align="center">Hi 👋, I'm Christwide Oscar</h1>
+<h3 align="center">Welcome to my page! Currently trying to learn everyting under the sun but I wont fly too high.</h3>
 
 - 🔭 I’m currently working on [KIDO Resources](https://github.com/ChristOscar/KidoResources)
 

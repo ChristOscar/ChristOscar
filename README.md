@@ -1,30 +1,28 @@
-<h1 align="center">Hi 👋, I'm Christwide Oscar</h1>
-<h3 align="center">Welcome to my page! Currently trying to learn everyting under the sun but I wont fly too high.</h3>
+<h1 align="center">Hey What's up 👋, I'm Christwide OScar</h1>
+<h3 align="center">A random guy that likes to build and explore different ways to build something.</h3>
 
-- 🔭 I’m currently working on [KIDO Resources](https://github.com/ChristOscar/KidoResources)
+- 🔭 I’m currently working on **SKeeps**
 
 - 🌱 I’m currently learning **Swift**
 
-- 🤝 I’m looking for help with [Firebase](https://firebase.google.com/?gclid=Cj0KCQjwk8b7BRCaARIsAARRTL4gFGGceIqxpmLXGbvk006RHjmpjeiO_FF-B9ifVmVKmGTAeVfMRt0aAooPEALw_wcB)
+- 🤝 I’m looking for help with [KIDO Resources](https://github.com/ChristOscar/KidoResources)
 
-- 👨‍💻 All of my projects are available at [https://github.com/ChristOscar](https://github.com/ChristOscar)
+- 👨‍💻 All of my projects are available at [https://github.com/ChristOscar?tab=repositories](https://github.com/ChristOscar?tab=repositories)
 
-- 💬 Ask me about **Python, C/C++, Flutter**
+- 💬 Ask me about **Flutter & Python**
 
-- 📫 How to reach me **Ochristwide@gmail.com**
+- 📫 How to reach me **OChristwide@gmail.com**
 
-- ⚡ Fun fact **I'm not the best but willing to learn more.**
+- 📄 Know about my experiences [https://drive.google.com/file/d/1Akuhjlg083zwcK8Rs0ofIxqPu5oMDjl4/view?usp=sharing](https://drive.google.com/file/d/1Akuhjlg083zwcK8Rs0ofIxqPu5oMDjl4/view?usp=sharing)
 
-<p align="left"> 
+- ⚡ Fun fact **I enjoy simracing**
+
 <h3 align="left">Connect with me:</h3>
-<a href="https://linkedin.com/in/crhistwide oscar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="crhistwide oscar" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/crhistwide oscar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="crhistwide oscar" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@triple101_games" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="@triple101_games" height="30" width="40" /></a>
+<p align="left">
+<a href="https://www.youtube.com/c/christwide oscar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/youtube.svg" alt="christwide oscar" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/django/django-original.svg" alt="django" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/swift/swift-original-wordmark.svg" alt="swift" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+<p align="left"> <a href="https://aws.amazon.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://developer.apple.com/swift/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=christoscar&layout=compact" alt="christoscar" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=christoscar&show_icons=true" alt="christoscar" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=christoscar&show_icons=true&locale=en" alt="christoscar" /></p>

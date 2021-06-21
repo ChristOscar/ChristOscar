@@ -1,7 +1,7 @@
 <h1 align="center">Hey What's up 👋, I'm Christwide Oscar</h1>
 <h3 align="center">A random guy that likes to build and explore different ways to build something.</h3>
 
-- 🔭 I’m currently working on **SKeeps**
+- 🔭 I’m currently working on **OutDorsy**
 
 - 🌱 I’m currently learning **Swift**
 

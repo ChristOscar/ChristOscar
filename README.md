@@ -11,7 +11,9 @@
 
 - 📫 How to reach me **OChristwide@gmail.com**
 
-- 📝 Skills **JavaScript, React, & Styled Components**
+- 📝 Frontend Skills **JavaScript, React.js, Redux, Axios, Jest, Context API**
+
+- 📝 Backend Skills **Node.js, Express, SQL, PostgreSQL, Git CLI, Vercel, Heroku, Netlify**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1Akuhjlg083zwcK8Rs0ofIxqPu5oMDjl4/view?usp=sharing](https://drive.google.com/file/d/1Akuhjlg083zwcK8Rs0ofIxqPu5oMDjl4/view?usp=sharing)
 

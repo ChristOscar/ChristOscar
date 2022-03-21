@@ -3,19 +3,19 @@
 
 - 🔭 I’m currently working on **OutDorsy**
 
-- 🌱 I’m currently learning **Swift**
+- 🌱 I’m currently learning **JavaScript**
 
 - 🤝 I’m looking for help with [KIDO Resources](https://github.com/ChristOscar/KidoResources)
 
 - 👨‍💻 All of my projects are available at [https://github.com/ChristOscar?tab=repositories](https://github.com/ChristOscar?tab=repositories)
 
-- 💬 Ask me about **Flutter & Python**
+- 💬 Ask me about **JavaScript, React, & Styled Components**
 
 - 📫 How to reach me **OChristwide@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1Akuhjlg083zwcK8Rs0ofIxqPu5oMDjl4/view?usp=sharing](https://drive.google.com/file/d/1Akuhjlg083zwcK8Rs0ofIxqPu5oMDjl4/view?usp=sharing)
 
-- ⚡ Fun fact **I enjoy simracing**
+- ⚡ Fun fact **I enjoy simracing, and spending time with family**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

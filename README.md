@@ -5,13 +5,13 @@
 
 - 🌱 I’m currently learning **JavaScript**
 
-- 🤝 I’m looking for help with [KIDO Resources](https://github.com/ChristOscar/KidoResources)
-
 - 👨‍💻 All of my projects are available at [https://github.com/ChristOscar?tab=repositories](https://github.com/ChristOscar?tab=repositories)
 
 - 💬 Ask me about **JavaScript, React, & Styled Components**
 
 - 📫 How to reach me **OChristwide@gmail.com**
+
+- 📝 Skills ** WIP **
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1Akuhjlg083zwcK8Rs0ofIxqPu5oMDjl4/view?usp=sharing](https://drive.google.com/file/d/1Akuhjlg083zwcK8Rs0ofIxqPu5oMDjl4/view?usp=sharing)
 

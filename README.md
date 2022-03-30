@@ -15,8 +15,6 @@
 
 - 📝 Backend Skills **Node.js, Express, SQL, PostgreSQL, Git CLI, Vercel, Heroku, Netlify**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Akuhjlg083zwcK8Rs0ofIxqPu5oMDjl4/view?usp=sharing](https://drive.google.com/file/d/1Akuhjlg083zwcK8Rs0ofIxqPu5oMDjl4/view?usp=sharing)
-
 - ⚡ Fun fact **I enjoy simracing, and spending time with family**
 
 <h3 align="left">Connect with me:</h3>

@@ -1,6 +1,8 @@
 <h1 align="center">Hey What's up 👋, I'm Christwide Oscar</h1>
 <h3 align="center">A random guy that likes to build and explore different ways to build something.</h3>
 
+Welcome! I’ve had the privilege to serve in a variety of different roles in the technology sector. I am now exploring my career options in web development with a crazy idea of creating my own project called KIDO Resources. Collectively, these experiences have allowed me to broaden my perspectives and acquire a wide-range of professional skills. I bring 100% effort into all the work that I do, and my goal as a developer is to bring simplicity to the everyday user. I am very passionate about paying it forward and have an interest in facilitating resources to underprivileged communities through software innovations.
+
 - 🔭 I’m currently working on **OutDorsy**
 
 - 🌱 I’m currently learning **JavaScript**
